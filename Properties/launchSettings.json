@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az204_cpf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7241",
+      "launchBrowser": false
+    }
+  }
+}
